@@ -165,6 +165,6 @@ catch(error){
 }
 }
 
-// Example usage:
+// Example :
 fetchData1();
 
