@@ -52,7 +52,6 @@ console.log(Person.genericGreet());
 // Task 6: Add a static property to the Student class to keep track of the number of students created.
 Student.numberOfStudents = 0;
 
-
 class StudentWithCount extends Person {
     constructor(name, age, studentId) {
         super(name, age);
